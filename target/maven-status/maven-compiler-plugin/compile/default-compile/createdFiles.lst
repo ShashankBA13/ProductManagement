@@ -1,0 +1,9 @@
+com\algodomain\product\dao\impl\ProductDAOImpl.class
+com\algodomain\product\repository\ProductRepository.class
+com\algodomain\product\service\ProductService.class
+com\algodomain\product\dao\ProductDAO.class
+com\algodomain\product\controller\ProductController.class
+com\algodomain\product\entity\Product.class
+com\algodomain\product\service\impl\ProductServiceImpl.class
+com\algodomain\config\WebConfig.class
+com\algodomain\config\AppInitializer.class
